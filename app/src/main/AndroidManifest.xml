@@ -30,6 +30,10 @@
         <activity
             android:name=".TitleBehaviorActivity"
             android:label="@string/title_activity_title_behavior"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FooterActivity"
+            android:label="@string/title_activity_footer"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

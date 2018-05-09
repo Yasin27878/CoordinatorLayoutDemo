@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
         }
         btn2.setOnClickListener{startActivity(Intent(this,CollapsingActivity::class.java))}
         btn3.setOnClickListener{startActivity(Intent(this,TitleBehaviorActivity::class.java))}
+        btn4.setOnClickListener{startActivity(Intent(this,FooterActivity::class.java))}
         fab.setOnClickListener { view ->
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                     .setAction("Action", null).show()

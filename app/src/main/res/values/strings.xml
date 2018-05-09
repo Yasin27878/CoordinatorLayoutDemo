@@ -4,6 +4,7 @@
     <string name="title_activity_scroll">ScrollActivity</string>
     <string name="title_activity_collapsing">CollapsingActivity</string>
     <string name="behavior_title">com.yasin.coordinatorlayoutdemo.TitleBehavior</string>
+    <string name="behavior_footer">com.yasin.coordinatorlayoutdemo.FooterBehavior</string>
     <string name="large_text">
         "Material is the metaphor.\n\n"
 
@@ -94,4 +95,6 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="title_activity_title_behavior">TitleBehaviorActivity</string>
+    <string name="title_activity_title_behavior2">TitleBehavior2Activity</string>
+    <string name="title_activity_footer">FooterActivity</string>
 </resources>
